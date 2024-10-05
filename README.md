@@ -1,4 +1,3 @@
-## 🧠 **README.md**
 
 # 🕹️ Turn-Based RPG Game
 
